@@ -26,29 +26,30 @@ Enough to understand and collaborate effectively:
 
 ---
 
-## 🛠️ **My Skills**
+## 🛠️ My Skills
 
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<p align="left">
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
+<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff">
+</p>
 
----
 
 ## 📊 **My Developer Stats (Highly Detailed)**
 
